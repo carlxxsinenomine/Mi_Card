@@ -1,6 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+A new Flutter project. Don't be fooled with the other Programming languages present on the repo I only wrote the Dart part.
 
 ## Getting Started
 
